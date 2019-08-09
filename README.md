@@ -9,9 +9,13 @@
 
 知识互联
 
-## :book: 大数据书籍
+## :book: 大数据
 
+#### [PostgreSQL & Greenplum](postgresql_greenplum)
 
+- [Postgresql 指南](postgresql_greenplum/Postgresql.png)
+- [Greenplum代码结构](postgresql_greenplum/Greenplum代码结构.png)
+- [Greenplum系统表](postgresql_greenplum/Greenplum系统表.png)
 
 ## :page_with_curl: 博客文章
 
