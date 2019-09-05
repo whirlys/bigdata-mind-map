@@ -28,6 +28,7 @@
     - [Flink Table API & SQL](flink/Flink_Table_API_SQL.png)
     - [Flink部署和运维](flink/Flink部署和运维.png)
     - [Flink调试和监控](flink/Flink调试和监控.png)
+    - [Flink CEP复杂事件处理](flink/Flink_1.9_CEP.png)
 
 ## :page_with_curl: 博客文章
 
